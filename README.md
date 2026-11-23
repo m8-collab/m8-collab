@@ -1,50 +1,58 @@
-# Hi, I'm Isaac Nzaka 👋
+# Hey, I'm Isaac 👋
 
-I'm a full-stack software developer focused on building practical, polished web applications for real people and businesses.
+I'm a developer based in Mtwapa, Kenya. I build web applications and turn ideas into things people can actually use.
 
-I enjoy turning ideas into useful products—from sports platforms and campaign management tools to personal portfolios and online services.
+I like working across the whole process—shaping the interface, organizing the data, and getting the details right. Most of my recent work has involved React, Next.js, TypeScript, Supabase, and PostgreSQL.
 
-## 🚀 Featured Work
+## Things I've been building
 
-### ⚽ [Mtwapa Premier League](https://mtwapapremierleague.com)
-A football league platform built to showcase teams, fixtures, results, and the excitement of Mtwapa Premier League.
+### [Mtwapa Premier League](https://mtwapapremierleague.com)
 
-**Repository:** [m8-collab/mpl](https://github.com/m8-collab/mpl) · **Technologies:** TypeScript, React, TanStack Start, Tailwind CSS
+A web platform for my local football community, bringing league information and match-day football together in one place.
 
-### 📣 [Pulse-Flow](https://github.com/m8-collab/Pulse-Flow)
-A real-time campaign operations platform for marketing teams, with campaign management, financial tracking, role-based access, expense approvals, tasks, analytics, and Supabase Realtime updates.
+[View repository](https://github.com/m8-collab/mpl)
 
-**Technologies:** Next.js 15, TypeScript, Tailwind CSS, shadcn/ui, Supabase, Drizzle ORM, Zod
+**Built with:** TypeScript, React, TanStack Start, and Tailwind CSS
 
-### 👤 [Isaac Nzaka Portfolio](https://m8-collab.github.io/mpf)
-My personal portfolio website, featuring a clean static design and an automated GitHub Pages deployment workflow.
+### [Pulse-Flow](https://github.com/m8-collab/Pulse-Flow)
 
-**Repository:** [m8-collab/mpf](https://github.com/m8-collab/mpf) · **Technologies:** HTML, CSS, JavaScript, GitHub Actions
+A campaign and operations dashboard for marketing teams. It covers campaign budgets, expenses, approvals, team tasks, role-based access, and live updates.
 
-### 🏆 [Leaderboard](https://github.com/m8-collab/leaderboard)
-A project focused on rankings, scores, and competitive progress.
+**Built with:** Next.js, TypeScript, Supabase, Drizzle ORM, Tailwind CSS, and shadcn/ui
 
-### 🛍️ [Isaac-Shop](https://github.com/m8-collab/Isaac-Shop)
-A work-in-progress project exploring an online shopping experience.
+### [Isaac Nzaka Portfolio](https://m8-collab.github.io/mpf)
 
-## 🛠️ Technologies
+My personal portfolio website. It's a small, simple static site with an automated GitHub Pages deployment.
 
-- TypeScript and JavaScript
+[View repository](https://github.com/m8-collab/mpf)
+
+**Built with:** HTML, CSS, JavaScript, and GitHub Actions
+
+### [Leaderboard](https://github.com/m8-collab/leaderboard)
+
+An experiment around rankings, scores, and displaying competitive progress.
+
+### [Isaac-Shop](https://github.com/m8-collab/Isaac-Shop)
+
+A work-in-progress shopping project. I'm using it as a place to try out product listings and the flow of an online store.
+
+## Tools I use
+
+- JavaScript and TypeScript
 - React and Next.js
 - TanStack Start
 - HTML and CSS
 - Tailwind CSS
 - Supabase and PostgreSQL
-- Drizzle ORM
-- Git and GitHub Actions
+- GitHub Actions
 
-## 🌱 What I'm Working Toward
+## What I'm doing now
 
-I'm continuously improving my ability to design and deliver complete products: clear interfaces, reliable data models, secure access controls, responsive layouts, and maintainable code.
+I'm learning by building: improving my frontend skills, writing cleaner backend logic, and paying more attention to the small details that make an application feel dependable.
 
-## 🤝 Let's Connect
+## Find me
 
-- **GitHub:** [github.com/m8-collab](https://github.com/m8-collab)
-- **Portfolio:** [Mtwapa Premier League](https://mtwapapremierleague.com)
+- GitHub: [@m8-collab](https://github.com/m8-collab)
+- Mtwapa Premier League: [mtwapapremierleague.com](https://mtwapapremierleague.com)
 
-Thanks for visiting my profile!
+Thanks for stopping by!
