@@ -1,5 +1,4 @@
-# Hey, I'm Isaac <img width="200" height="250" alt="WhatsApp Image 2026-11-24 at 1 27 21 PM" src="https://github.com/user-attachments/assets/535e59dd-496e-43c2-b6d3-d9b672c6491d" />
-
+# Hey, I'm Isaac 
 
 I'm a developer based in Mtwapa, Kenya. I build web applications and turn ideas into things people can actually use.
 
